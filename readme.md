@@ -1,5 +1,7 @@
 # Write Code Every Day
 
+[![Join the chat at https://gitter.im/guilhermeepaixaoo/write-code-every-day](https://badges.gitter.im/guilhermeepaixaoo/write-code-every-day.svg)](https://gitter.im/guilhermeepaixaoo/write-code-every-day?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A project to honor those developers who believed in the challenge.
 
 ## How to add yourself to this public list?
